@@ -1,0 +1,17 @@
+# Menyembunyikan file berisi Private Key
+pk.txt
+
+# Menyembunyikan file Proxy
+proxy.txt
+
+# Menyembunyikan folder library (ukurannya besar dan bisa diinstall ulang)
+node_modules/
+
+# Menyembunyikan file log error
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Menyembunyikan file konfigurasi sistem
+.DS_Store
+Thumbs.db
